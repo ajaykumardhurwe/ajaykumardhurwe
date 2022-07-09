@@ -1,4 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://ajaykumardhurwe.io)
+<!-- this is first comment  -->
+<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://ajaykumardhurwe.io) -->
+![Screenshot (637)](https://user-images.githubusercontent.com/54279953/178101892-b9d8413e-b508-4838-b9c7-aabba38917de.png)
 <h1 align="center">Hi 👋, I'm Ajay Kumar Dhurwe</h1>
 <h3 align="center">A passionate stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
